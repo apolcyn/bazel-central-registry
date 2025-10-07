@@ -1,9 +1,9 @@
 {
     "url": "https://github.com/grpc/grpc/archive/refs/tags/v1.75.1.tar.gz",
-    "integrity": "sha256-<YOUR_SHA256_HASH>",
+    "integrity": "sha256-486d5e32b3627926476a9a472f9792e4d7fe4e89c962473f1296183f76c6b032",
     "strip_prefix": "grpc-1.75.1",
     "patches": {
-        "bcr.patch": "sha256-4d243a051d2ea1b61c28b76c0e86236b33451e06497f5af5d0c07d383971c26f"
+        "bcr.patch": "sha256-77bcfbf7f59212235366243f039d0731bcaa6d98f7a881126b81f69ffca19610"
     },
     "patch_strip": 1
 }
